@@ -1,14 +1,16 @@
 ---
-title: Troubleshoot
-description: Frequently asked questions and known issues pulled from the Hugo Discuss forum.
+title: Troubleshooting
+
+description: Use these techniques when troubleshooting your site.
+categories: []
+keywords: []
 menu:
   docs:
+    identifier: troubleshooting-in-this-section
     parent: troubleshooting
-    weight: 1
-weight: 1
-aliases: [/troubleshooting/faqs/,/faqs/]
+    weight: 10
+weight: 10
+aliases: [/templates/template-debugging/]
 ---
 
-The Troubleshooting section includes known issues, recent workarounds, and FAQs pulled from the [Hugo Discussion Forum][forum].
-
-[forum]: https://discourse.gohugo.io
+Use these techniques when troubleshooting your site.
