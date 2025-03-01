@@ -1,14 +1,17 @@
 ---
-title: Functions Quick Reference
-description: Comprehensive list of Hugo templating functions, including basic and advanced usage examples.
+title: Functions
+
+description: Use these functions within your templates and archetypes.
+categories: []
 keywords: []
 menu:
   docs:
+    identifier: functions-in-this-section
     parent: functions
-weight: 01
+    weight: 10
+weight: 10
+showSectionMenu: true
 aliases: [/layout/functions/,/templates/functions]
 ---
 
-Go templates are lightweight but extensible. Go itself supplies built-in functions, including comparison operators and other basic tools. These are listed in the [Go template documentation][gofuncs]. Hugo has added additional functions to the basic template logic.
-
-[gofuncs]: https://golang.org/pkg/text/template/#hdr-Functions
+Use these functions within your templates and archetypes.

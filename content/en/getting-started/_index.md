@@ -1,14 +1,15 @@
 ---
-title: Get Started
-linktitle: Get Started Overview
-description: Quick start and guides for installing Hugo on your preferred operating system.
-categories: [getting started]
-keywords: [usage,docs]
+title: Getting started
+
+description: How to get started with Hugo.
+categories: []
+keywords: []
 menu:
   docs:
+    identifier: getting-started-in-this-section
     parent: getting-started
-    weight: 1
-weight: 0001
+    weight: 10
+weight: 10
 aliases: [/overview/introduction/]
 ---
 
